@@ -4,8 +4,6 @@ This Repository contains list of Solidity Attack Vectors. It includes most solid
 
 #### If you find any attack vectors missing, you can create a pull request and be a contributor of the project.
 
----
-
 | Serial No. | Attack Vectors                                                        |
 | ---------- | --------------------------------------------------------------------- |
 | **1**      | [Access Control Checks on Critical Function](data/1.md)               |
